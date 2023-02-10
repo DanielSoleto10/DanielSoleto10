@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hola!
 
-<!--
-**DanielSoleto10/DanielSoleto10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me llamo Daniel Nava Soleto
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Colegio que estudié
+
+Yo estuve en la Unidad Educativa "La Salle  Convenio-Tarija" turno tarde
+
+## Hobbies
+
+Mis hobbies favoritos son:
+*Escuchar música
+*Jugar videojuegos
+*Jugar fútbol 
+
+## Porqué estoy estudiando esta carrera?
+Decidí estudiar esta carrera porque me llama mucho la atención saber como se comporta la tecnología el dia de hoy, el porque de muchas cosas, también porque me gusta manejar las computadoras.
+
+
+## Cuál seria el primer producto que haria?
+
+Mi primer proyecto que quiero hacer saliendo de la universidad, seria hacer un videojuego o también algo revolucionario que pueda cambiar al mundo
+## Qué lenguajes conozco?
+
+Los lenguajes que tengo un poco de conocimiento seria Python y HTML
